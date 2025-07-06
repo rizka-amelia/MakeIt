@@ -1,0 +1,38 @@
+<!-- login.html -->
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login - MakeIt</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body class="auth">
+  <div class="logo"></div> 
+  <div class="login">
+    <div class="login-container">
+      <div class="logo-container">
+        <img src="assets/logo/MakeIt.png" alt="MakeIt Logo" class="logo-icon" />
+      </div>
+
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="username" class="form-label">Username</label>
+          <input type="email" id="username" name="username" class="form-input" placeholder="Masukkan Username" required />
+        </div>
+        <div class="form-group">
+          <label for="password" class="form-label">Password</label>
+          <input type="password" id="password" name="password" class="form-input" placeholder="Masukkan Password" required />
+        </div>
+        <button type="submit" class="login-button">Masuk</button>
+      </form>
+
+      <div class="register-link">
+        Belum memiliki akun? <a href="register.html">Daftar</a>
+      </div>
+    </div>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
