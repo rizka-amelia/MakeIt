@@ -1,3 +1,5 @@
+// testing stuff
+
 const artikelData = {
   daging: {
     judul: "Cara Memilih Daging Sapi yang Baik Dan Bagus",
