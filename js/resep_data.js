@@ -649,7 +649,7 @@ urap_sayur: {
 },
 capcay_goreng: {
   judul: "Capcay Goreng",
-  gambar: "assets/resep/capcay_goreng.jpeg",
+  gambar: "assets/resep/capcay_goreng.jpg",
   waktu: "29 Menit",
   kesulitan: "Sedang",
   bahan: [

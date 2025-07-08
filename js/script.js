@@ -309,7 +309,18 @@ function loadFavoritePage() {
     gudeg: { nama: 'Gudeg', gambar: 'assets/resep/gudeg.png' },
     mie_ayam: { nama: 'Mie Ayam', gambar: 'assets/resep/mie_ayam.png' },
     soto_ayam: { nama: 'Soto Ayam', gambar: 'assets/resep/soto_ayam.png' },
-    ayam_geprek: { nama: 'Ayam Geprek', gambar: 'assets/resep/ayam_geprek.png' }
+    ayam_geprek: { nama: 'Ayam Geprek', gambar: 'assets/resep/ayam_geprek.png' },
+    tahu_kecap: { nama: 'Tahu Kecap', gambar: 'assets/resep/tahu_kecap.png' },
+    nasi_goreng_jawa: { nama: 'Nasi Goreng Jawa', gambar: 'assets/resep/nasi_goreng.jpg' },
+    udang_asam_manis: { nama: 'Udang Asam Manis', gambar: 'assets/resep/udang_asam_manis.jpg' },
+    tahu_kecap: { nama: 'Tahu Kecap', gambar: 'assets/resep/tahu_kecap.png' },
+    seblak_kuah_kerupuk: { nama: 'Seblak Kuah Kerupuk', gambar: 'assets/resep/seblak.png' },
+    oseng_kacang_tempe: { nama: 'Oseng Kacang Tempe', gambar: 'assets/resep/oseng_kacang_tempe.jpeg' },
+    urap_sayur: { nama: 'Urap Sayur', gambar: 'assets/resep/urap.jpg' },
+    capcay_goreng: { nama: 'Capcay Goreng', gambar: 'assets/resep/capcay_goreng.jpg' },
+    tumis_jamur_tiram: { nama: 'Tumis Jamur Tiram Cabe Ijo', gambar: 'assets/resep/tumis_jamur_tiram.jpeg' },
+    plecing_kangkung: { nama: 'Plecing Kangkung', gambar: 'assets/resep/plecing.jpeg' },
+    beberuk_terong: { nama: 'Beberuk Terong', gambar: 'assets/resep/beberuk.jpeg' },
   };
 
   grid.innerHTML = '';
