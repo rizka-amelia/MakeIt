@@ -303,7 +303,7 @@ function loadFavoritePage() {
   const grid = document.getElementById('favorit-container');
   
   if (!grid) return;
-fhd
+
   const resepList = {
     rendang: { nama: 'Rendang', gambar: 'assets/resep/rendang.png' },
     gudeg: { nama: 'Gudeg', gambar: 'assets/resep/gudeg.png' },
