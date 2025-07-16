@@ -208,7 +208,7 @@ const resepData = {
     ]
   },
   sate_pusut: {
-    judul: "Sate Pusut",
+    judul: "Sate Pusut Khas Lombok",
     gambar: "assets/resep/sate_pusut.webp",
     waktu: "1 Jam",
     kesulitan: "Sedang",
@@ -243,7 +243,7 @@ const resepData = {
     ]
   },
   bebek: {
-    judul: "Bebek Goreng Madura",
+    judul: "Bebek Goreng Khas Madura",
     gambar: "assets/resep/bebek_madura.jpg",
     waktu: "2 Jam",
     kesulitan: "Sedang",
@@ -291,7 +291,7 @@ const resepData = {
     ]
   },
   tekwan: {
-    judul : "Tekwan",
+    judul : "Tekwan Khas Palembang",
     gambar: "assets/resep/tekwan.jpeg",
     waktu: "1,5 Jam",
     kesulitan: "Sedang",

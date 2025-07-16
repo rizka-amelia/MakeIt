@@ -313,7 +313,6 @@ function loadFavoritePage() {
     tahu_kecap: { nama: 'Tahu Kecap', gambar: 'assets/resep/tahu_kecap.png' },
     nasi_goreng_jawa: { nama: 'Nasi Goreng Jawa', gambar: 'assets/resep/nasi_goreng.jpg' },
     udang_asam_manis: { nama: 'Udang Asam Manis', gambar: 'assets/resep/udang_asam_manis.jpg' },
-    tahu_kecap: { nama: 'Tahu Kecap', gambar: 'assets/resep/tahu_kecap.png' },
     seblak_kuah_kerupuk: { nama: 'Seblak Kuah Kerupuk', gambar: 'assets/resep/seblak.png' },
     oseng_kacang_tempe: { nama: 'Oseng Kacang Tempe', gambar: 'assets/resep/oseng_kacang_tempe.jpeg' },
     urap_sayur: { nama: 'Urap Sayur', gambar: 'assets/resep/urap.jpg' },
@@ -321,6 +320,13 @@ function loadFavoritePage() {
     tumis_jamur_tiram: { nama: 'Tumis Jamur Tiram Cabe Ijo', gambar: 'assets/resep/tumis_jamur_tiram.jpeg' },
     plecing_kangkung: { nama: 'Plecing Kangkung', gambar: 'assets/resep/plecing.jpeg' },
     beberuk_terong: { nama: 'Beberuk Terong', gambar: 'assets/resep/beberuk.jpeg' },
+    bubuy_ayam: { nama: 'Bubuy Ayam Khas Subang', gambar: 'assets/resep/bubuy_ayam.png' },
+    sate_pusut: { nama: 'Sate Pusut Khas Lombok', gambar: 'assets/resep/sate_pusut.webp' },
+    bebek: { nama: 'Bebek Goreng Khas Madura', gambar: 'assets/resep/bebek_madura.jpg' },
+    tekwan: { nama: 'Tekwan Khas Palembang', gambar: 'assets/resep/tekwan.jpeg'},
+    sate_emprit: { nama: 'Sate Emprit Khas Kediri', gambar: 'assets/resep/sate_emprit.jpg'},
+    kupat_tahu: { nama: 'Kupat Tahu Khas Magelang', gambar: 'assets/resep/kupat_tahu.webp' },
+    soto_seger: { nama: 'Soto Seger Khas Boyolali', gambar: 'assets/resep/soto_seger.avif' },
   };
 
   grid.innerHTML = '';

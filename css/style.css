@@ -78,7 +78,7 @@ body.auth {
 }
 
 .form-input {
-  width: 419px;
+  width: 100%;
   padding: 12px 16px;
   font-size: 14px;
   border-radius: 25px;
@@ -95,7 +95,7 @@ body.auth {
 }
 
 .login-button {
-  width: 419px;
+  width: 100%;
   padding: 14px;
   font-size: 16px;
   font-weight: bold;
@@ -130,7 +130,7 @@ body.auth {
   text-decoration: underline;
 }
 .register-button {
-  width: 419px;
+  width: 100%;
   padding: 14px;
   font-size: 16px;
   font-weight: bold;
@@ -146,7 +146,7 @@ body.auth {
   .navbar {
   background-color: #FFB22C;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  font-family: 'Yu Gothic UI', sans-serif;
+  font-family: 'Poppins';
 }
 
 .navbar .nav-link,
@@ -161,7 +161,7 @@ body.auth {
   color: #f8f9fa !important;
 }
 .navbar .dropdown-menu {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins';
   font-size: 12px;
   font-weight: 700;
 }
@@ -565,7 +565,7 @@ h5 {
   background-color: #FFB22C;
   color: white;
   border-radius: 25px;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   cursor: pointer;
   display: block;
@@ -624,7 +624,7 @@ h5 {
 
 /* Nama resep */
 .favorit-recipe-name {
-  font-size: 16px;
+  font-size: 30px;
   font-weight: normal;
   color: #000;
   margin-top: 10px;
@@ -742,8 +742,7 @@ h5 {
 }
 /* ==== === Halaman Artikel === ==== */
 
-/* Container keseluruhan artikel */
-/* ======= style.css ======= */
+
 
 /* Judul Artikel */
 .article-subtext {
@@ -1097,4 +1096,3 @@ h3 {
   height: 18px;
   margin-right: 8px;
 }
-
